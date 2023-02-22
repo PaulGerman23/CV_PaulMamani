@@ -1,0 +1,18 @@
+
+
+{
+    "name": "Curriculum_ProyectoFinal",
+    "short_name": "ProyectoFinal",
+    "theme_color": "#ffe08a",
+    "start_url": "/home",
+    "display": "standalone",
+     "orientation": "portrait", 
+    "background_color": "#fff",
+    "description": "Este CV esta desinado a ser presentado como en el curso de front-end de Argentina programa como Proyecto Final",
+    "icons": [{
+      "src": "./imagen_icono.png",
+      "sizes": "320x474",
+      "type": "image/png"
+      }]
+    }
+    
